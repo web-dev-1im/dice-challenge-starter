@@ -34,4 +34,4 @@ Do the same for the right hand side image element.
 ### Dice Challenge Step 6 - Change the Title to Display a Winner
 Change the text in the h1, (which currently says Refresh Me) to show which user won or if there was a draw depending on the dice values of player 1 (left) and player 2 (right).
 
-Tip: You can select the <h1> by using `document.querySelector("h1")`. This will return the first h1 in the body.
+Tip: You can select the `<h1>` by using `document.querySelector("h1")`. This will return the first h1 in the body.
